@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.codingdojo.mvc</groupId>
-	<artifactId>mvc</artifactId>
+	<artifactId>MVC</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>mvc</name>
-	<description>Authentication Project</description>
+	<name>MVC</name>
+	<description>MVC project</description>
 
 	<properties>
 		<java.version>1.8</java.version>
